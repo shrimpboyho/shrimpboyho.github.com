@@ -11,7 +11,7 @@ pygments: true
 #
 title : shrimpboyho
 tagline: This is obviously my blog.
-author :
+author : shrimpboyho
   name : New Joe
   email : shrimpboyhoftw@gmail.com
   github : shrimpboyho
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://shrimpboyho.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
